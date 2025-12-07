@@ -1,0 +1,2 @@
+# xtbcalc
+kalkulačka pro XTB
